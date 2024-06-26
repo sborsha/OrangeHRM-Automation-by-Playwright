@@ -10,7 +10,7 @@ This is a simple project of Web automtion(OrangeHRM) for multiple browser using 
         npm install
 4. For Execute the automated tests
 
-        npm playwright test
+        npx playwright test
 
 ## Positive Test Cases
 - Verify successful login with valid credentials.
